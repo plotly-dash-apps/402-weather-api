@@ -14,8 +14,8 @@ import datetime
 tabtitle = 'Weather'
 sourceurl = 'https://openweathermap.org/api'
 githublink = 'https://github.com/austinlasseter/weather-api-dash-app'
-dc_latitude=38
-dc_longitude=-77
+dc_latitude=38.9
+dc_longitude=-77.0
 
 
 
